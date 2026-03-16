@@ -1,7 +1,9 @@
 # repositorio
 Oque tu quer fazer?
 BOM DIAAA
-HELO NIGAS
+HELO NIG
+
+https://github.com/ivnls/M-CHAT
 
 Falar sobre a escravização é olhar para um dos capítulos mais sombrios e complexos da trajetória humana. Não se trata apenas de um "fato histórico", mas de um processo sistemático de desumanização que moldou economias, culturas e desigualdades que persistem até hoje.
 
